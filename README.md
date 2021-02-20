@@ -29,7 +29,7 @@ Speed can be adjusted between 1 and 200, with 100 being normal speed.
 The speed can be set with `-s`:  
 `python3 book_to_speech.py -f path/to/book.pdf -s 150`
 
-Lastly, volume can be set between 1 and 20, with 10 being normal volume, using `-a`:
+Lastly, volume can be set between 1 and 20, with 10 being normal volume, using `-a`:  
 `python3 book_to_speech.py -f path/to/book.pdf -a 15`
 
 ## Notes
