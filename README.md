@@ -14,7 +14,7 @@ The python packages can be installed using the `requirement.txt` file:
 This tool uses the command line (PowerShell, CMD, Unix).  
 The formatting is automatically determined by the file extension, such as `.pdf`.
 Basic command:  
-`python3 **book_to_speech**.py -f path/to/book.pdf`
+`python3 book_to_speech.py -f path/to/book.pdf`
 
 In rare cases that the extension does not match the formatting.
 It is possible to overwrite the automated detection using `-t`.
